@@ -15,9 +15,11 @@ I'm a passionate **tech enthusiast** 💻 with a strong focus on **Android & Blo
   - Built a **Speech-to-Hand Signs Translator for Video Calls**.  
 - **🏅 I LoveHackathon (Bhubaneswar, Pune, Chennai Editions)**  
   - **Runner-Up (Bhubaneswar Edition)** 🏆  
-  - **Special Mention (Chennai Edition)** 🎖️
+  - **Special Mention (Chennai Edition)** 🎖️  
   - **Participation (Pune Edition)** 🎖️  
 - **🎯 ParulHackverse – Participated**  
+
+🚨 **Note:** The repositories for my projects are **private** due to security, ongoing development, and proprietary features. If you're interested in discussing any of them, feel free to reach out!  
 
 ---
 
@@ -30,9 +32,9 @@ I'm a passionate **tech enthusiast** 💻 with a strong focus on **Android & Blo
 
 # 💻 Tech Stack  
 ### **🖥️ Development:**  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)    
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
 
 ### **⚡ Backend & Databases:**  
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
