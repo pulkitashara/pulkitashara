@@ -6,7 +6,7 @@ I'm a passionate **tech enthusiast** 💻 with a strong focus on **Android & Blo
 - **Custodify** 👨‍👩‍👧‍👦 – A **Parental Control App** to help families manage and secure their digital space.  
 - **DrugChain** 💊🏥 – A **blockchain-based medicine tracker** ensuring transparency and security in the drug supply chain.  
 
-### 🏆 Hackathon Achievements:  
+### 🏆 Hackathon Achievements(Certificates will be uploaded soon):  
 - **🥇 1st Runner-Up (Blockchain) – Hackanova 4.0**  
   - Built a **Blockchain-Powered Financial Emergency Relief & Real-Time Response System for Rural India**.  
 - **🏆 Grand Finalist – Smart India Hackathon (SIH) 2023**  
@@ -19,7 +19,7 @@ I'm a passionate **tech enthusiast** 💻 with a strong focus on **Android & Blo
   - **Participation (Pune Edition)** 🎖️  
 - **🎯 ParulHackverse – Participated**  
 
-🚨 **Note:** The repositories for my projects are **private** due to security, ongoing development, and proprietary features. If you're interested in discussing any of them, feel free to reach out!  
+🚨 **Note:** The repositories for my projects are **private** due to security, ongoing development, and proprietary features. If you're interested in discussing any of them, feel free to reach out!
 
 ---
 
