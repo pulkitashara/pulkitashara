@@ -1,21 +1,49 @@
-# 💫 About Me:
-Hi there 👋<br>I'm a passionate tech enthusiast 💻 with a focus on Android development 📱.<br>Currently working on an exciting Parental Control App 👨‍👩‍👧‍👦 to make family tech safer and smarter! 🚀<br>I’m also a huge fan of hackathons 🏆 and was a finalist in Smart India Hackathon 2023 💡.
+# 💫 About Me  
+Hi there! 👋  
+I'm a passionate **tech enthusiast** 💻 with a strong focus on **Android & Blockchain development** 📱⛓️.  
 
+### 🚀 What I'm Working On:  
+- **Custodify** 👨‍👩‍👧‍👦 – A **Parental Control App** to help families manage and secure their digital space.  
+- **DrugChain** 💊🏥 – A **blockchain-based medicine tracker** ensuring transparency and security in the drug supply chain.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkitashara) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23279851) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pulkitashara&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pulkitashara&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitashara&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🏆 Hackathon Achievements:  
+- **🥇 1st Runner-Up (Blockchain) – Hackanova 4.0**  
+  - Built a **Blockchain-Powered Financial Emergency Relief & Real-Time Response System for Rural India**.  
+- **🏆 Grand Finalist – Smart India Hackathon (SIH) 2023**  
+  - Developed an **AI-driven infrastructure development progress detection system**.  
+- **🥉 Runner-Up – HackConquest (AI/ML Track) @ TCET**  
+  - Built a **Speech-to-Hand Signs Translator for Video Calls**.  
+- **🏅 I LoveHackathon (Bhubaneswar, Pune, Chennai Editions)**  
+  - **Runner-Up (Bhubaneswar Edition)** 🏆  
+  - **Special Mention (Chennai Edition)** 🎖️
+  - **Participation (Pune Edition)** 🎖️  
+- **🎯 ParulHackverse – Participated**  
 
 ---
-![](https://visitcount.itsvg.in/api?id=pulkitashara&icon=0&color=0)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkitashara)  
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23279851)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulkitashara)  
+
+---
+
+# 💻 Tech Stack  
+### **🖥️ Development:**  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)    
+
+### **⚡ Backend & Databases:**  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+
+### **📦 DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
+### **🤖 AI & ML:**  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
